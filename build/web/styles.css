@@ -1,0 +1,77 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Mar 25, 2017, 11:27:28 PM
+    Author     : N
+*/
+
+            body {background-image:url('image/20.jpg');
+                    background-repeat: no-repeat;
+                    background-size: cover;}
+            td {
+                font-weight:bold;
+                font-size: 20px;
+            }
+            table {top:20px;
+                   right:30%;
+            position:absolute;}
+            button {
+    background-color:#0066cc;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius:6px;
+    color:#f2f2f2;
+    width:300px;
+    font-family: 'Oswald';
+    font-size: 30px;
+    text-decoration: none;
+    cursor: poiner;
+     border:none;
+     cursor: pointer;
+            }
+            input[type=text] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+    color:#0066cc;
+    font-size: bold;
+    font-size: 15px;
+}
+input[type=password] {
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+    color:#0066cc;
+    font-size: bold;
+    font-size: 15px;
+}
+select{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid blue;
+    border-radius: 4px;
+    color:#0066cc;
+    font-size: bold;
+    font-size: 15px;
+}
+input[type=checkbox]{
+    color:#f2f2f2;
+}
+label{
+    color:#f2f2f2;
+}
+    h3  {
+    color:#f2f2f2; 
+}
+
